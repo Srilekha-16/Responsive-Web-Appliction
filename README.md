@@ -1,1 +1,1 @@
-# Responsive-Web-Appliction
+# Responsive-Web-Application
